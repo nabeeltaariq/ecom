@@ -130,6 +130,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -153,11 +154,21 @@
       <updated>1603960064014</updated>
       <workItem from="1603960076563" duration="323000" />
       <workItem from="1604125919931" duration="1763000" />
-      <workItem from="1604130993240" duration="2397000" />
+      <workItem from="1604130993240" duration="9307000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="257" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604137176335">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="257" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1024.728@0.0.1024.728" timestamp="1604137176335" />
+    <state x="269" y="223" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604135744153">
+      <screen x="0" y="0" width="1024" height="728" />
+    </state>
+    <state x="269" y="223" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1024.728@0.0.1024.728" timestamp="1604135744153" />
   </component>
 </project>

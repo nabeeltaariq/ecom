@@ -26,6 +26,16 @@
         padding-top: 100px;
         padding-top: 100px;
     }
+    .back
+    {
+        width: 100%;
+        margin-top: -20px;
+        background-color: #0099cc;
+        -moz-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+        -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+        box-shadow: 1px 2px 3px rgba(0,0,0,.5);
+    }
+
 </style>
 
 
