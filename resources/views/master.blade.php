@@ -35,6 +35,19 @@
         -webkit-box-shadow: 1px 2px 3px rgba(0,0,0,.5);
         box-shadow: 1px 2px 3px rgba(0,0,0,.5);
     }
+    img.slider-img
+    {
+        height: 400px !important;
+
+    }
+    .custom-product
+    {
+        height: 600px;
+    }
+    .slider-text
+    {
+        background-color: #0000005e !important;
+    }
 
 </style>
 
